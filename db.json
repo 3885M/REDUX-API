@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "bcc6",
+      "title": "In non voluptate dol",
+      "price": "385",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQAlAMBIgACEQEDEQH/xAAbAAAABwEAAAAAAAAAAAAAAAAAAgMEBQYHAf/EAEsQAAEDAwICBQgFBwcNAAAAAAEAAgMEBRESIQYxEyJBUXEUFTJhgZGh0QcjcrHBNEJVkpPh8CQzRFRiorIWJTU2Q0VSU3OCg9Li/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAeEQEBAQEAAgMBAQAAAAAAAAAAARECITEDEjJBBP/aAAwDAQACEQMRAD8Av/m+4jcXSP8AU/ciut90O4u0ftYPkpMckMBYxEm3XU7C7s/UHyRRarr23jf2fJS5GFxbjUO223AvLDdX7AHOR8koLXXfpV/v/cpCL8ok+ylVmCL81Vp53V3v/cuts9W52POkhd2AOKk9krTkNcXY3WXJG8+biLbZJW/z11qP+xSFFbYYRl09VMewySfgFIAxYy77klLUNHVYAM9q5/Z2nMRtytsspD6KulgGOs0nI+5RzrXcgOrd+fgfwVib1mHPtTDquJLHMc3OxBzlVxdR3MqI803T9M/EfJd8z1/beX+/9yltJG5CCvHPUT5nuXZejj2fJd8z3L9NO+HyUthdTGInzPcv0w73j5Lnmm6fpk/3fkpftwikJgifNV0/S/8Ah+S4pUgd59yC3A4Hr2QKGcIZygKgV0ouEBIvymT7KVSMX5TJ9lKoBySFZcaO2QGevqYqeHONUjse7vTlmknrkgeoZUVxUKVtlqqzzbFXzUMT6iFk4JGpo22CnrzFc+zeLiqGtfptVLU1fc4RloP4/BRV7vN8pw0yVVls8ef5yunGr2NznPsWa3XjK/3anlHnLyWGMfktEwQs8Mjc+9QbKR0x1mJ73ybknck+srlkerOq06l4mtup0dfxDWX+oI/mqSDo4h7cNarRwdfKe4WyQUdv8ibTyuj6N2Xu8clZDBaLjbKuimNM6Fk/PnqcO07+pavw5RC2QvjdN0rpz0oOMbcgd/4yt5vnEd8X66sbpXP9NxPiuZSDXo4fuuzzFSV0FEDsoID9/egigoIATughgIIFgggEEHEFxcOUCcR/lUn2ErlIQn+WTfYSxOAgHrRXgFpDgCDsQUNSI52AgyjjXhukoqyofSRiKLoy4NA23HzVYtFe4QdFGBrxghy2HiO0vutsdVxDXDofHIBsW4J38D8MetYVc7TW0MudzEH6WObuR7Fx+vnHrndyWLRR1N4utWBRvb01P9WwyYIxnsBOFe+HTVwumir53S1EDWMJAAaMjO3v+CySwXXyOZ7KuSoY0HUXR7PaR937lo/Apqa83KukMnRVMrXQ9PkucNONR9eAnPOVHfyfbjwuTZc8spdkmUwDXx4LmYAHPCWjfjf3+tddec+D0oDlNGSZThjkCoXcIoKMFoKeaCBQQL5PchyUdqvJ/osXxQ/z1/VYfblBIIHko1xvX9Vg+KTcb9+bSQY8HfNA/i2rJfsJyIiRk7KPoYrmHOnqoo2uO2GZxhSPSg6sb4ccrLcaSla2MbuyTySJyG75zvtyXZnAg5KSLtnDPZso0QHD/G1NbLZNT1rHOImf0ZaNWcuOQ5QRvfCVDeHXGkpamaY5LWvB6ON5x6DT278znG+MKush1QTGTOGTy75xyecqNFAJZHBxGnS7dxPPbnkqidWTIPxbxK25Rz+SW6mpY3t6z425lk7g53d6lrNmo201tpoRG1rWxtAAGANlktbbWM1xsB0jkMczlbhFGDpABJGNgOSy+SEqaSOZ7w06tB0v2y3wTxkcZaWljP1Ug0NaNuqSTnbmiST9Hk52UtcrIo4XNdGT1iequNcO9Mbx5fV2x3mqTo61uHR6mgh3eN/UoSmt/GRwZKgM7wGxq4xbg4DtRwe8qvRW7intq2+1kacNt/EvbVRfs2LWJjPcgonzdxGf6Sz9mxBBP6j3lc63efeurhK0cOe8+9cJP/EfeukopQda5+SNRx4pBsoNTNGP7LvHO34JTLgCWge1QEtc+G+U4c06Z2PYR3YBcD8D71z6qpExI8ai3G6KeZx2jCirfWdNMXats43UszrAnPblYMtjadFaAM/Xz4339IptE366oDRnAefuT1jfr6lriTqqJgMD+2U0j/n35GdUe2+/Ifx7laCtVENRdgE5O/fuAtZFTUU7zFFTdKyUYe4SBpb4bLLZvSweZeQC4jvC1MSaSe3vU1XJBxLJS15OQ3JGeWexQ1xr2NimDXY30jxOwT3yoS1FQ9pbjXp5ZzgY7+9Uz6Qa8UsdDCw46SfOGjGw3+/Cmqxc6GUSY0u0gbc1xmA8txyOFB2KUSwRnpHbY6ymngsl9LOQDqHaq5rKeMx3JZoCbQnIGycK0lBp7kERBaHZXF1cQBEcjEop3I7ygTqBIImiN2kZ3PaqjWsY3iW3uklL3udI0YPL6tyttwJZESXtaBnmqBU1Ovi61MbKH/XnO+cdUrj0uJG0xPfcTD1gNXZ6lao+b9sc1C2aIi6yObnAznxU4fRee3C2DJaafVX3Jh63R1kgP65P4rjG4qcty4tZuMYPamlLI0XC7HOrNbKeqDtgqQoA58zy4OB076uzGdgrcysrHOr4SRhrpwMn7QWoVDxDC+Qn0Wl3iskutd5NU00hGxnbnO+euPktWvWfIHNaOtJhvs7VNVygaLMcAfthxJOPX2qifSdUh/ENBCCPq6Uvx9p3/wAlaEIT0Aj5aT2BZR9IznDjRrQPQp42N9uT+JUxS38GyB0UbXvPLtOyukrQI4zHtjbmqFwk4RRxh7JZHat2RxlxI/jKvUM4lpnNNFUwEei6RmAcJz7bTmIHHPCct5BM6V3tCeNwurmMggurQ5QKLqXcoOFJSlwY7Q9zHDk5rdRHgO9KErkfWeAM557LKKxdKqWiY+V895BaMudJEHM9vVAPscqZHW0VbxlapaUtLzI4uLWFgOI39h7VrtQzEZw5zcjGQ9ZRx1Rust3t94hZHI5k+lxLNLyHDTuRsea52Li+WRp/lM/IHlvlP43fUTOJGc8vYmUI8itMTXAh726nZHekjUCG1VE8jjpDC8nwGfmjKyKihf5VcJRqaZKiU537XFWOMCGLLRuc76jvnPyQ4ahbWWiKZmC5zQc45k8/bsu3Ggl9FrtLTpP3q0VVr/M2eF0jHa9OXAg8+38FtVxm1tp3tILHRh/vAWRTWl7KZpfkjAyT2Ajn8FqvDT23Dhm2PcQXupY89+dICyqgsTpn6sN6mfSWY/TLS+T3m11LGnpJoCDjmS1wx/iWzwUgaQ1wyByCzn6WLVNW8RWDVC80XXjfIx2NyQcerksjaacHWriV9PDKbnFTwv3MTHZcB7iFezDXQQgtuRqAcCSOoa1wcO0BwDSD3c0va6KmoKaMUkAiaG8g0/ej3OcCBw7xpPtUyN03pTjZPmFRdK/JHrCko3ZC6pK5QRUFrCLrMDt5yqP2jkQ2Jp/3lP8AtHKTK4UEWbEOy6Tj/wAjkejtpo6tkvnGWUDIMbnuIdlPikZDg5HMLKJHAe05Vc4mpgKSKd1OyboKmKTQRnk8b+xWGlc2RmoDq8skpjeKq3RxSQ1lXBCXDTh8rWnJ8SosVEXfJohNHHJIA5zsBveVDfSHcvNnCNdA6F0Ylg0xyfmlzuqW9+e1J8IUlTfL9XXe6ZEFHMYKeIHLXObzcoD6Tq2k4g4oisUtd5PSUDNUrsjrSu7PYMe9Zz7bbFW4DvUtNmkecMBBBHPAWgtq2GmbNNjSGtyAAMc1AWqxWO1x62VBe3GS95yfcml4u0TJnxwuxGBjAPP0laETxZxLJMehpWaWNAaNtuXctM+iC4eXcHwQkfW0T3Qu8ObfgVldXXWtuHSwNc5o7ACpn6NeKzbL9LJMzorPMwRzOPJhz1XDw3z6vBK2eG6jq8t0lU0zaho1j0SHN9RHbnwyE5adWC0AscMgjkUSTqNcTjYFS1HOY9hLhVTZP5rsEKtcSRXKunijt9bBT6SXPLnaST2bYVgnqY30+poa9unLXAjt3yFW6d7pZTI78455pAhT2W/nBN3p857JB/6qXp7VeGjLro13iW/JHgG+fxUnDpxurYZttt4x/pCP3NQUkPVyQWsOEUoyKUBXJCRLOSL0EVVVlREPIoqgxumkc5z2nrMjw3Ib3Ek8+wZ7SmrrdDUQGlfT9NE8YdFoMhIPacbnt3KQqGT1l1uUUTA6Wnp2mnbjGSRqIz6yB8FZaCA2yhhbSAulIbJUGXdz8jff1cgOQwotx044+9VO4eU8G2Ns9KZGGJ0jW0/Rl4nc/wBEk/mhp3Pq2WeRcKGrkfW1NxFXNMdcjwPScdyt36Z8dQC6QBr8PiJOQW9o/jxWM/STFPYeKaptrrJIIp2tnDWOwBqztg7cwSs4uq+TiyRE1PDVQx3RxTzZO3M4B7vv9yjZOGq6QOe573EjU7B/jvSf+Vd9b/TGnGNzE08uX3op4rvpGPLcfZY0H7leOJ5RcFVc0uat/RQg9Z3v+SfSUVHX3G38P2ySMwOeXSmJ4dsM5ye8qsVdbX3D8tq55W9znbe7krX9EkEDeNqRsukh8cjWgkeljI7fUmNntttgdFbqQW2PIp6BogLnkkjSBknPinN+rI6S1zzF7d2aWb83O2A95VfrKauZcq7yQ6TUgjW7JDScAnA7du1QXGgkisVNYWTdJKyIFssx6zXgjQ4/H4KIvrP4a2p81FR1dpfl0cUregD/APluGogeB9yl6RuAN8+xQ9EDoa55LpMDLiME47VN045AH9ypCRhT6IjHMphAn8fh8FoWGcbOwgiZ9ePagjD8jZFQQWgjuSRKCCCEoP8AWu5f9CI/3ClbZcKio4e86vcPKoqjQCOTm9JpwR4FBBR36dvh/RpxcXSVZtwe5lPUU0kzwzY6xyIP4cllF2utVeYKKetLDLHTNi1NGNTQTjPfzQQXP4v09H+n8RVbgOjk6u26aB5zvgrqC7vEcwzY/wBlF+qpa3XCooHNrqRzYqiDL43NaNiF1BaNRd9IN4/yXjrTDRGct9Lonc+/GpQFprKi50/l1dK6Won1SPe7v9XcEEFIsNI0YbtzGVKQej7EEED+HmPFPmckEEB9R70EEEY//9k=",
+      "description": "Quidem eos tenetur ",
+      "category": "men's clothing"
+    },
+    {
+      "id": "7947",
+      "category": "electronics",
+      "title": "A.C",
+      "price": "5999",
+      "description": "BlueStar 2 Ton Inverter 3Star Rating Split AC. 5-year PCB Warranty, 10-year compressor warranty, and 1-year parts warranty.",
+      "image": "https://rukminim2.flixcart.com/image/1800/744/xif0q/air-conditioner-new/k/k/9/-original-imah9zhkke4vcfhh.jpeg?q=60&crop=false"
+    },
+    {
+      "id": "3797",
+      "category": "jewelery",
+      "title": "TOP TRADITIONAL NECKLASH",
+      "price": "250",
+      "description": "Combo of 5 Traditional 18 inch Daily Wear Necklace Set for Women Gold-plated Plated Brass Necklace",
+      "image": "https://rukminim2.flixcart.com/image/640/558/xif0q/shopsy-necklace-chain/0/m/5/5-elc-combo-2-necklace-brado-jewellery-original-imah85qhhysnqc5b.jpeg?q=60&crop=false"
+    },
+    {
+      "id": "daef",
+      "category": "women's clothing",
+      "title": "WOMEN GOWN AND DUPATTA SET",
+      "price": "600",
+      "description": "GEORGET FABRIC PURPLE COLORE S  SIZED GOWN AND DUPATTA SET",
+      "image": "https://rukminim2.flixcart.com/image/640/558/xif0q/shopsy-ethnic-set/v/d/y/xl-chopan-set-7800-group-original-imahbff42xttfnvz.jpeg?q=60&crop=false"
+    }
+  ]
+}
