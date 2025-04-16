@@ -166,7 +166,7 @@ const UpdateProduct = () => {
                   value={product.image || ""}
                   onChange={getInput}
                   className="py-2"
-                  placeholder="https://example.com/image.jpg"
+                  placeholder="IMG URL HERE:"
                   required
                 />
               </Form.Group>
@@ -184,7 +184,7 @@ const UpdateProduct = () => {
                   variant="dark" 
                   className="px-4"
                 >
-                  Update Product
+                  Save Changes
                 </Button>
               </div>
             </Form>
